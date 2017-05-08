@@ -1,0 +1,4 @@
+Finished in order:
+99 Bottles Of Beer: 12:08, 4/2/2017
+A+B: 19:35, 4/2/2017
+Ackermann Function: 9:35, 4/2/2017
